@@ -42,7 +42,7 @@ def tan(a):
     return math.tan(math.radians(a))
 
 # Streamlit App
-st.title("Complex Calculator")
+st.title("Calculator Developed by Fatima")
 
 # Input fields for numbers
 num1 = st.number_input("Enter first number", format="%.2f")
