@@ -38,4 +38,4 @@ The calculator is built to be interactive and easy to use, providing an intuitiv
 
 - **Error Handling:** 
 
-	- Handles errors such as division by zero and logarithms of non-positive numbers.
+	- Handles errors such as division by zero, square roots of negative numbers, and logarithms of non-positive numbers.
