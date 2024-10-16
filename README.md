@@ -1,4 +1,4 @@
-# Complex Calculator App using Streamlit
+# Calculator App using Streamlit
 A powerful calculator with basic and advanced mathematical operations, built using Python and Streamlit.
 
 ****Overview****
