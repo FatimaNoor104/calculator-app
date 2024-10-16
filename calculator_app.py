@@ -43,7 +43,7 @@ def tan(a):
 
 # Streamlit App
 st.title("Advance Calculator")
-st.markdown("### Developed by Fatima")
+st.markdown("*Developed by Fatima*")
 # Input fields for numbers
 num1 = st.number_input("Enter first number", format="%.2f")
 
