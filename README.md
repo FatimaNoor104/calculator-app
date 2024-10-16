@@ -44,3 +44,6 @@ The calculator is built to be interactive and easy to use, providing an intuitiv
 
 - Streamlit - Fastest way to build custom ML tools and data science apps in Python.
 - Python's math library for handling mathematical calculations.
+
+****Calculator App Interface****
+![image](https://github.com/user-attachments/assets/2a469307-624f-4931-a3e6-e8de613bb2b5)
